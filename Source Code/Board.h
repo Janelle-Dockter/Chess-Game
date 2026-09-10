@@ -1,8 +1,3 @@
-// jdockter17@georgefox.edu
-// Assignment 10
-// 2019-04-29
-
-
 #ifndef _BOARD_H
 #define _BOARD_H
 

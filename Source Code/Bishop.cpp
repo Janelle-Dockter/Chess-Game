@@ -1,7 +1,3 @@
-// jdockter17@georgefox.edu
-// Assignment 10
-// 2019-04-29
-
 using namespace std;
 
 #include "Bishop.h"
