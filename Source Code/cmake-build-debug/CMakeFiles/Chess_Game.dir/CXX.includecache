@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Board.h
+Square.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Square.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+iostream
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Capture.h
+ChessMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ChessMove.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Castle.h
+GameMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/GameMove.h
+Rook.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Rook.h
+King.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/King.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ChessMove.h
+GameMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/GameMove.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ConvertPawn.h
+ChessMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ChessMove.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/GameMove.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/King.h
+Piece.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Piece.h
+Square.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Square.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Piece.h
+string
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.cpp
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+Piece.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Piece.h
+Board.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Board.h
+ChessMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ChessMove.h
+Castle.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Castle.h
+ConvertPawn.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ConvertPawn.h
+Capture.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Capture.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+King.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/King.h
+GameMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/GameMove.h
+string
+-
+vector
+-
+iostream
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Rook.h
+Piece.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Piece.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+Square.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Square.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Square.h
+string
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/chess.cpp
+ChessMove.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/ChessMove.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/Player.h
+

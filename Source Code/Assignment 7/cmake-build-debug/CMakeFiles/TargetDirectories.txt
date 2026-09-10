@@ -1,0 +1,3 @@
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/cmake-build-debug/CMakeFiles/Chess_Game.dir
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

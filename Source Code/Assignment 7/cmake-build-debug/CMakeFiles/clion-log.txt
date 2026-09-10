@@ -1,0 +1,4 @@
+"C:\Users\Janelle\Desktop\Important Downloads\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Janelle\Documents\Sophomore Year\GFU Spring 2019\Object-Oriented Programming\Chess Game"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game/cmake-build-debug

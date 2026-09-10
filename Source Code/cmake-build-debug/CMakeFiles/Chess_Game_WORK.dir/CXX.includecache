@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Board.h
+Square.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Square.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Player.h
+iostream
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/King.h
+Piece.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Piece.h
+Square.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Square.h
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Player.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Piece.h
+string
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Player.cpp
+Player.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Player.h
+Piece.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Piece.h
+Board.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Board.h
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Player.h
+King.h
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/King.h
+string
+-
+vector
+-
+iostream
+-
+list
+-
+
+C:/Users/Janelle/Documents/Sophomore Year/GFU Spring 2019/Object-Oriented Programming/Chess Game WORK/Square.h
+string
+-
+
